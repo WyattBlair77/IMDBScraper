@@ -264,6 +264,5 @@ class IMDbScraper():
     def set_movie_lists(self, movie_list):
         self.movie_lists = []
 
-# --- Call functions --
 
 
